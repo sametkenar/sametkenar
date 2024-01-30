@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Samet Kenar.
 
- ** I am a Statistics Student at Middle East Technical University**
+ **I am a Statistics Student at Middle East Technical University**
 
  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sametkenar/)
 
