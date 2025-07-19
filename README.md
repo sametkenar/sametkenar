@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Samet Kenar.
 
- **I am a Data Scientist and Statistics Graduate from Middle East Technical University (METU)**
-
- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sametkenar/)
+ **I am a Data Scientist and Statistics Graduate from Middle East Technical University (METU).**
 
 My main focus is building practical solutions using data:
 - I design and develop interactive web applications for data analysis, reporting, and automation using R Shiny, Streamlit and Python.
