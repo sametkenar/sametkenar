@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet Kenar</h1>
-<h3 align="center">Data Scientist | Statistics Graduate from METU | Building practical products</h3>
+<h3 align="center">Data Scientist | Statistics Graduate from METU</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sametkenar/" target="_blank">
