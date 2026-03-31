@@ -1,11 +1,6 @@
 <h1 align="center">Samet Kenar</h1>
-<p align="center">
-  IT Business Analyst | Statistics Graduate | Building AI-Powered Applications
-</p>
-
-<p align="center">
-  Building AI-powered web and desktop applications with ASP.NET Core, C#, Vite, Python, R, and R Shiny
-</p>
+<h3 align="center">IT Business Analyst | Statistics Graduate | Building AI-Powered Applications</h3>
+<p align="center"><em>Building AI-powered web and desktop applications with ASP.NET Core, C#, Vite, Python, R, and R Shiny</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sametkenar/">LinkedIn</a> •
