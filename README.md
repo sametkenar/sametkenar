@@ -1,6 +1,6 @@
 <h1 align="center">Samet Kenar</h1>
-<h3 align="center">IT Business Analyst | Statistics Graduate | Building AI-Powered Applications</h3>
-<p align="center"><em>Building AI-powered web and desktop applications with ASP.NET Core, C#, Vite, Python, R, and R Shiny</em></p>
+<h3 align="center">IT Business Analyst | Building AI-Powered Web & Desktop Applications</h3>
+<p align="center"><em>Developing full-stack applications, internal tools, and automation systems with ASP.NET Core, C#, React, Vite, Python, and SQL</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sametkenar/">LinkedIn</a> •
@@ -17,23 +17,23 @@
 
 ## About Me
 
-I am an **IT Business Analyst** with a background in **Statistics** and **Data Science**.
+I am a **IT Business Analyst** with a background in **Statistics, Data Science, and business systems**.
 
-My work focuses on building **AI-powered applications** and internal systems that solve real business problems. I develop both **web** and **desktop** solutions and turn business needs into practical technical products.
+My work focuses on building **full-stack web applications, desktop software, internal tools, and automation systems** that solve real business problems. I enjoy turning operational needs into practical and scalable technical products.
 
-I currently work mainly with **ASP.NET Core, C#, Vite, Python, R, and R Shiny**.
+I currently work mainly with **ASP.NET Core, C#, React, Vite, Python, SQL, and Docker**.
 
-My background also includes machine learning, statistical modeling, automation, data analysis, and analytical product development.
+My background in data science and analytics also helps me build **AI-powered applications**, data-driven features, and intelligent business solutions.
 
 ---
 
 ## What I Do
 
-- Build AI-powered business applications
-- Develop web and desktop software
-- Create automation tools and internal systems
-- Work on data analysis and decision-support solutions
-- Translate business requirements into technical products
+- Build backend and full-stack applications with ASP.NET Core, C#, and React
+- Develop internal systems for business operations and workflow automation
+- Create data-driven and AI-enabled application features
+- Design scalable tools for reporting, tracking, and process management
+- Turn business requirements into working software products
 
 ---
 
