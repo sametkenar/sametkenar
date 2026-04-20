@@ -116,16 +116,3 @@ My background in data science and analytics also helps me build **AI-powered app
 </div>
 
 ---
-
-## Background
-
-- Statistics graduate from **Middle East Technical University (METU)**
-- Background in **data science, statistics, and analytical thinking**
-- Experience in **analysis, machine learning, automation, and application development**
-
----
-
-## Contact
-
-- **LinkedIn:** [linkedin.com/in/sametkenar](https://www.linkedin.com/in/sametkenar/)
-- **Portfolio:** [sametkenar.github.io](https://sametkenar.github.io/)
