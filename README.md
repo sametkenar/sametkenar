@@ -1,5 +1,5 @@
 <h1 align="center">Samet Kenar</h1>
-<h3 align="center">IT Business Analyst | Building AI-Powered Web & Desktop Applications</h3>
+<h3 align="center">IT Business Analyst</h3>
 <p align="center"><em>Developing full-stack applications, internal tools, and automation systems with ASP.NET Core, C#, React, Vite, Python, and SQL</em></p>
 
 <p align="center">
